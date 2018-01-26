@@ -1,0 +1,8 @@
+{
+  "name": "ionicaws",
+  "app_id": "4c5ff077",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}

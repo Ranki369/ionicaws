@@ -115,3 +115,4 @@ aws s3 cp --recursive ./www s3://WEBSITE_BUCKET
 ```
 
 Where `WEBSITE_BUCKET` is an S3 bucket configured with static hosting.
+# ionicaws creation
